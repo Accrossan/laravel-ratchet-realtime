@@ -1,0 +1,15 @@
+{
+  "name": "custom/laravel-ratchet-realtime",
+  "description": "Realtime notifications and charts using Laravel + Ratchet + Redis",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Realtime\\": "src/"
+    }
+  },
+  "require": {
+    "cboden/ratchet": "^0.4",
+    "predis/predis": "^2.0"
+  }
+}
