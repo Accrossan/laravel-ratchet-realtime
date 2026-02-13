@@ -1,5 +1,5 @@
 {
-  "name": "custom/laravel-ratchet-realtime",
+  "name": "accrossan/laravel-ratchet-realtime",
   "description": "Realtime notifications and charts using Laravel + Ratchet + Redis",
   "type": "library",
   "license": "MIT",
